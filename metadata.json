@@ -1,0 +1,6 @@
+{
+  "name": "NEXLINK WORK",
+  "description": "A global network-access connectivity hub and job marketplace integrated with Nexa, an AI career assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
